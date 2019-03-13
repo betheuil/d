@@ -1,0 +1,56 @@
+{
+ "name": "High Speed Rail",
+ "children": [
+  {
+   "name": "High Speed 2 Limited",
+   "children": [
+    {
+     "name": "Phase One",
+     "children": [
+      {
+       "name": "South",
+       "children": [
+        {
+         "name": "(S3) Euston Station (Ch.0 To Ch.450)",
+         "children": [
+          {
+           "name": "Euston Station  Stage A (Phase 1) (Ch. 0 To Ch. 450)",
+           "children": [
+            {
+             "name": "Euston Underground Station Stage A",
+             "children": [
+              {"name": "LU Traction Substation and Vent Shaft", "contract type": "Stations"},
+              {"name": "Euston Road Subway Euston Square Connection", "contract type": "Stations"},
+              {"name": "Euston Underground Station Stage A", "contract type": "Stations"}
+             ]
+            },
+            {
+             "name": "Euston Station Stage A",
+             "children": [
+              {"name": "Euston Station Stage A", "contract type": "Stations"}
+             ]
+            },
+            {
+             "name": "Euston Station & Approaches",
+             "children": [
+              {"name": "C563 - Euston Enabling", "contract type": "Route Wide - On Network Works"},
+              {"name": "C1000_1723 Essential Works", "contract type": "Route Wide - On Network Works"},
+              {"name": "C1000_4446 Line X", "contract type": "Route Wide - On Network Works"},
+              {"name": "C1000_1725 11kV Works", "contract type": "Route Wide - On Network Works"},
+              {"name": "C1000_2149 - Euston Decommissioning of Platforms 17-18", "contract type": "Route Wide - On Network Works"},
+              {"name": "C1000_2000 - Euston Station Concourse Area Alterations", "contract type": "Route Wide - On Network Works"},
+              {"name": "C1000_2152 - Euston- Industry Mitigations", "contract type": "Route Wide - On Network Works"}
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
